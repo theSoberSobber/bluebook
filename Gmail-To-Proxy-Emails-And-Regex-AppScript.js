@@ -23,7 +23,7 @@ function processProxyEmails() {
           }
 
           const githubToken = PropertiesService.getScriptProperties().getProperty('GH_TOKEN');
-          const repoOwner = 'tpo-manit';
+          const repoOwner = 'theSoberSobber';
           const repoName = 'bluebook';
           const filePath = 'authorized_external_emails.json';
           const branch = 'emails';

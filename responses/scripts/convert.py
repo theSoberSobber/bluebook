@@ -7,7 +7,7 @@ import base64
 import json
 
 def fetch_authorized_emails_from_github():
-    url = "https://api.github.com/repos/tpo-manit/bluebook/contents/authorized_external_emails.json?ref=emails"
+    url = "https://api.github.com/repos/theSoberSobber/bluebook/contents/authorized_external_emails.json?ref=emails"
     try:
         response = requests.get(url)
         if response.status_code == 200:

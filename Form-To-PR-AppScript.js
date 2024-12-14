@@ -1,6 +1,6 @@
 // make sure to give permission by manual exec once
 // make sure to add GH_TOKEN property, make sure your token is properly scoped
-const USERNAME = "tpo-manit";
+const USERNAME = "theSoberSobber";
 const REPO = "bluebook";
 
 function onSubmit(e) {

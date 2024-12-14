@@ -17,4 +17,4 @@ See documentation at https://gohugo.io/.
 - Make a GForm and put the Form-To-PR-AppScript.js put GH_TOKEN properties, set a new form submit trigger
 - Make another AppScript at https://script.google.com/ and put Gmail-To-Proxy-Emails-And-Regex-AppScript.js put GH_TOKEN and FORM_ID as properties, set a time based trigger
 - Setup on the mail id a filter that stars messages with academic email regex and labels them something
-- For GH_Workflows make a GH_TOKEN secret too
+- For GH_Workflows make a PAT secret too

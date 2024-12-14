@@ -14,8 +14,11 @@ def fetch_authorized_emails_from_github():
             file_info = response.json()
             content_base64 = file_info.get('content')
             content = base64.b64decode(content_base64).decode('utf-8')
-            authorized_emails = json.loads(content)    
-            return authorized_emails
+            authorized_emails = json.loads(content)
+            inverted_map = {}
+            for key in authorized_emails:
+                inverted_map[authorized_emails[key]] = key
+            return inverted_map
         else:
             print(f"Error: Unable to fetch file. Status code: {response.status_code}")
             return None

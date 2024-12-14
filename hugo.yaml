@@ -12,7 +12,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["responses", "bluebook"]
-# googleAnalytics: UA-123-45
+# googleAnalytics: G-HQ5VE3YYWK
 
 minify:
   disableXML: true
@@ -126,6 +126,8 @@ markup:
     noClasses: false
 
 services:
+  googleAnalytics:
+    ID: G-HQ5VE3YYWK
   instagram:
     disableInlineCSS: true
   twitter:

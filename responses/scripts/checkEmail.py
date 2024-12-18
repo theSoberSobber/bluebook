@@ -62,6 +62,6 @@ with open(file_path, 'r') as f:
 validEmail = 0
 email_map = fetch_authorized_emails_from_github()
 if pr_data["email"].strip().endswith(".ac.in") or pr_data["data"]["Email"][0].strip().endswith(".ac.in"): validEmail|=1
-if email_map.get(pr_data["data"]["Email"][0].strip()).strip() is not None and email_map.get(pr_data["data"]["Email"][0].strip()).strip().endswith(".ac.in"): validEmail|=1
+if email_map.get(pr_data["data"]["Email"][0].strip()) is not None and email_map.get(pr_data["data"]["Email"][0].strip()).strip().endswith(".ac.in"): validEmail|=1
 
 print(validEmail)

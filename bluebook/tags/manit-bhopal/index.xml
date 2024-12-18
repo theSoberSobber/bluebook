@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MANIT Bhopal on Bluebook</title>
+    <title>Manit Bhopal on Bluebook</title>
     <link>https://pavit.xyz/bluebook/tags/manit-bhopal/</link>
-    <description>Recent content in MANIT Bhopal on Bluebook</description>
+    <description>Recent content in Manit Bhopal on Bluebook</description>
     <image>
       <title>Bluebook</title>
       <url>https://pavit.xyz/bluebook/bluebook-logo.png</url>
       <link>https://pavit.xyz/bluebook/bluebook-logo.png</link>
     </image>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Dec 2024 17:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 15:10:52 +0000</lastBuildDate>
     <atom:link href="https://pavit.xyz/bluebook/tags/manit-bhopal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rajneesh Kushwaha - Siemens EDA</title>
+      <link>https://pavit.xyz/bluebook/responses/bluebook/response_13_2024-12-18/</link>
+      <pubDate>Wed, 18 Dec 2024 15:10:52 +0000</pubDate>
+      <guid>https://pavit.xyz/bluebook/responses/bluebook/response_13_2024-12-18/</guid>
+      <description>Read about my interview experience at Siemens EDA</description>
+    </item>
     <item>
       <title>Navneet Kumar - Zomato</title>
       <link>https://pavit.xyz/bluebook/responses/bluebook/response_11_2024-12-13/</link>

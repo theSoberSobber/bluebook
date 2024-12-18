@@ -1,0 +1,64 @@
+{
+  "timestamp": "2024-12-18T17:22:30.919Z",
+  "email": "saurabhsingh75555@gmail.com",
+  "data": {
+    "Name": [
+      "Raj kamal Singh "
+    ],
+    "Email": [
+      "2211301135@stu.manit.ac.in"
+    ],
+    "College": [
+      "Maulana Azad national institute of technology "
+    ],
+    "Linkedin Profile (if interested)": [
+      "https://www.linkedin.com/in/rajkamal-singh-94680521b/"
+    ],
+    "CV/Resume (if interested)": [
+      "[https://drive.google.com/file/d/1bdKKUxIpadLm7TfKWhGfQ3K_TjxJqqsv/view?usp=sharing](https://drive.google.com/file/d/1bdKKUxIpadLm7TfKWhGfQ3K_TjxJqqsv/view?usp=sharing)"
+    ],
+    "CGPA at the time of Selection (if interested) ": [
+      "8.98"
+    ],
+    "Company Appeared For": [
+      "Google"
+    ],
+    "Placement Profile": [
+      "Summer Internship"
+    ],
+    "Mode of Online Assessment": [
+      "Online"
+    ],
+    "Online Assessment Difficulty (out of 5)": [
+      "5"
+    ],
+    "Online Assessment Round Questions": [
+      "OA was of 4 Coding questions.\nunable to recall exact questions but they were of hard level that's all i can say.\n"
+    ],
+    "Mode of Interview(s)": [
+      "Online"
+    ],
+    "Number of Interview Rounds": [
+      "2 "
+    ],
+    "Interview Experience": [
+      "interview was concluded in 2 rounds and in both of them only DSA Questions were asked \n1) It was a leetcode medium level problem based on stack and string .\n second question was of binary search similar to aggressive cow (gfg)\n2)  In 2 round Question of DFS/BFS traversal but it was framed nicely some complex analysis was required \nin question n rows and m cols were given which represents a matrix and we need to find how many types of pattern lock we can apply assuming it to be similar to that of \nphone screen dots pattern matrix ."
+    ],
+    "Level of Difficulty of Interview(s)": [
+      "4"
+    ],
+    "Tips/Sources for Interview Preparation": [
+      "Striver for DSA\nSeniors for tips\nleetcode and cf for practice "
+    ],
+    "Were Society Position of Responsibility given any Importance?": [
+      "Maybe, can't tell certainly"
+    ],
+    "Did the Interviewer(s) Focus on asking questions from CV/Resume": [
+      "No"
+    ],
+    "Were the interview questions relevant to the JD Circulated? (if applicable)": [],
+    "Any other relevant information": [
+      "20% luck + 80% hard work that's it"
+    ]
+  }
+}

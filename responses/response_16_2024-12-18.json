@@ -1,0 +1,62 @@
+{
+  "timestamp": "2024-12-18T18:14:48.127Z",
+  "email": "arnavdubey17@gmail.com",
+  "data": {
+    "Name": [
+      "Arnav Dubey"
+    ],
+    "Email": [
+      "211112469@stu.manit.ac.in"
+    ],
+    "College": [
+      "MANIT, Bhopal"
+    ],
+    "Linkedin Profile (if interested)": [
+      "https://www.linkedin.com/in/arnav-dubey-software-developer/"
+    ],
+    "CV/Resume (if interested)": [
+      "[https://drive.google.com/file/d/1xjsiv_UijC72aBxkU_2HwAdZ3AQprZvl/view?usp=sharing](https://drive.google.com/file/d/1xjsiv_UijC72aBxkU_2HwAdZ3AQprZvl/view?usp=sharing)"
+    ],
+    "CGPA at the time of Selection (if interested) ": [
+      "7.7"
+    ],
+    "Company Appeared For": [
+      "Cimpress"
+    ],
+    "Placement Profile": [
+      "SDE"
+    ],
+    "Mode of Online Assessment": [
+      "Offline"
+    ],
+    "Online Assessment Difficulty (out of 5)": [
+      "3"
+    ],
+    "Online Assessment Round Questions": [
+      "Questions based on LINQ,C# and SQL"
+    ],
+    "Mode of Interview(s)": [
+      "Online"
+    ],
+    "Number of Interview Rounds": [
+      "2 technical rounds"
+    ],
+    "Interview Experience": [
+      "Round 1:\n\nThere were two interviewers, both from Boston, Massachusetts, USA. My interview was scheduled at 10 PM.\n\nThe interview began with questions about my resume. Since I had mentioned RabbitMQ (a Message Broker), the first 5?10 minutes focused on an in-depth discussion about it. Once the interviewers were satisfied with my responses, we moved on to the next part of the interview.\n\nThis round aimed to assess my understanding of Object-Oriented Programming (OOP) and basic SQL implementation.\n\nI was given two tables:\n\nEmployee Table\nAttributes: EmpId, Salary, FirstName, LastName\nRole Table\nAttributes: EmpId, Position, StartDate, EndDate\nThe first question was: \"How will you implement these tables in Object-Oriented Programming? You can use any OOP language.\"\n\nI used C++ and created two classes: Employee and Role.\nThe follow-up question was to code and print all the roles of a particular employee.\nInitially, I solved it by creating two objects.\nThen, I was asked to do it using only one object. I achieved this by storing a vector of Role class instances within the Employee class.\nNext, I was asked to write a program to print all employees currently working in the company.\n\nAfter the coding part, we discussed C# and C++ briefly.\n\nI was then given two basic SQL queries:\n\n1.Find the sum of salaries of all employees currently working in the company.\nThis required an INNER JOIN between the Employee and Role tables.\n2.Query using  GROUP BY and HAVING clauses.\nI solved both queries successfully, which concluded the round.\n\n\nRound 2: System Design\nThis was a system design round.\n\nI was given three services: Order Service, Product Service, and User Service.\nThe task was to explain how I would design the system.\n\nSince I had worked on a similar project, I shared the tech stacks that could be used. The interviewers were impressed.\n\nThey then provided an API response containing order details and asked: \"As a developer, how would you proceed?\"\n\nI explained the importance of validation, such as:\nChecking if the user is authenticated.\nEnsuring the response contains valid currency.\nVerifying the order sum matches the sum of individual items.\nValidating the objects in the response.\nNext, the interviewers asked about JWT (JSON Web Token) and its working, which led to an in-depth discussion.\n\nFor the database part, they asked:\n\nWhich type of database would you use and why?\nI suggested SQL and provided valid reasons why NoSQL was unnecessary in this case.\nWe discussed the number of tables required and the foreign key relationships.\nSince we had some time left, additional questions included:\n\nThe differences between SQL and NoSQL.\nHow to securely connect to databases, especially while providing a username and password.\nI suggested using an .env file.\nWhen asked how to secure the credentials without using .env, I proposed encryption and explained the algorithm, which impressed them.\nWe also discussed:\n\nCloud computing: Managing database or server downtimes.\nLoad management: Strategies for handling loads while deploying into the CI/CD pipeline.\nThis round was very specific to work scenarios and practical implementation.\n"
+    ],
+    "Level of Difficulty of Interview(s)": [
+      "4"
+    ],
+    "Tips/Sources for Interview Preparation": [],
+    "Were Society Position of Responsibility given any Importance?": [
+      "Maybe, can't tell certainly"
+    ],
+    "Did the Interviewer(s) Focus on asking questions from CV/Resume": [
+      "Yes"
+    ],
+    "Were the interview questions relevant to the JD Circulated? (if applicable)": [],
+    "Any other relevant information": [
+      "Keep learning and growing. Rejections are part of the journey, but what truly matters is learning from your mistakes and improving each time. While hard work and smart work are essential, it?s important to acknowledge that sometimes luck can play a role too. However, consistent effort will eventually lead to success?when all the stars align, your moment will come.\n\nFor instance, in my case, I had three pending interviews that were canceled because there was only one vacancy, and the interviewers chose to proceed with me. Had my interview been scheduled later, I might not have had the same opportunity.\n\nSo, keep believing in yourself and stay persistent. Your hard work will pay off, and success will surely come your way one day!"
+    ]
+  }
+}

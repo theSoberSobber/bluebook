@@ -80,8 +80,8 @@ def convert_to_markdown(latest_file_path):
                 e
                 for e in [
                     data.get("email", "").strip(),
-                    data.get("data", {}).get("Email", "").strip(),
-                    email_map.get(data.get("data", {}).get("Email", "").strip(), "").strip()
+                    data.get("data", {}).get("Email", "")[0].strip(),
+                    email_map.get(data.get("data", {}).get("Email", "")[0].strip(), "").strip()
                 ]
                 if e.endswith(".ac.in")
             ),

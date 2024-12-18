@@ -21,6 +21,29 @@ jobs:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
 
+    - name: Check for Academic or Proxy Mail
+      id: email-check
+      run: |
+        validEmailBool=$(python responses/scripts/checkEmail.py)
+        echo "::set-output name=valid_email::$validEmailBool"
+      shell: bash
+
+    - name: Comment on Invalid Email
+      if: steps.email-check.outputs.valid_email == '0'
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Comment on the PR
+        gh pr comment --body "No valid proxy or academic email found in response."
+
+    - name: Close PR for Invalid Email
+      if: steps.email-check.outputs.valid_email == '0'
+      env:
+        GH_TOKEN: ${{ secrets.PAT }}
+      run: |
+        # Close the PR
+        gh pr close ${{ github.event.pull_request.number }}
+
     # Cache Ollama Installation
     - name: Cache Ollama installation
       id: cache-ollama

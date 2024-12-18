@@ -75,7 +75,19 @@ def convert_to_markdown(latest_file_path):
     company = data["data"].get("Company Appeared For", "").strip() or None
     linkedin = data["data"].get("Linkedin Profile (if interested)", "").strip() or None
     placement_profile = data["data"].get("Placement Profile", "").strip() or None
-    email = data.get("email", "").strip() or None
+    email = (
+        next((
+                e
+                for e in [
+                    data.get("email", "").strip(),
+                    data.get("data", {}).get("Email", "").strip(),
+                    email_map.get(data.get("data", {}).get("Email", "").strip(), "").strip()
+                ]
+                if e.endswith(".ac.in")
+            ),
+            None
+        )
+    )
     timestamp = data.get("timestamp", "").strip() or None
     
     if name and company:
@@ -103,7 +115,7 @@ def convert_to_markdown(latest_file_path):
         markdown_content += f'profiles: ["{placement_profile}"]\n'
     
     if name and email:
-        markdown_content += f'author: ["{name} - {email if email.endswith(".ac.in") else email_map[email]}"]\n'
+        markdown_content += f'author: ["{name} - {email}"]\n'
     
     markdown_content += f"---\n"
     markdown_content += f"---\n"

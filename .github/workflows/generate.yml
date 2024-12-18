@@ -32,8 +32,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name 'tpo-manit'
-          git config user.email 'tpomanit16@gmail.com'
+          git config user.name 'theSoberSobber'
+          git config user.email 'akshatshrivastava0010@gmail.com'
 
       - name: Commit changes
         run: |

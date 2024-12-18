@@ -4,7 +4,7 @@ summary: Read about my interview experience at Cimpress
 tags: ["Cimpress", "MANIT, Bhopal"]
 date: "2024-12-18T18:14:48.127Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_16_2024-12-18"]
+aliases: ["/responses/bluebook/response_16_2024-12-18", "/responses/bluebook/arnav-dubey-cimpress"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/arnav-dubey-software-developer/"
 companies: ["Cimpress"]

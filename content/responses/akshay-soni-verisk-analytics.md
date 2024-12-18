@@ -4,7 +4,7 @@ summary: Read about my interview experience at Verisk Analytics
 tags: ["Verisk Analytics", "MANIT"]
 date: "2024-12-08T09:26:11.507Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_16_2024-12-08"]
+aliases: ["/responses/bluebook/response_16_2024-12-08", "/responses/bluebook/akshay-soni-verisk-analytics"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/akshaysoni07?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 companies: ["Verisk Analytics"]

@@ -4,7 +4,7 @@ summary: Read about my interview experience at Rubrik
 tags: ["Rubrik", "IIIT Allahabad"]
 date: "2024-12-12T03:10:57.661Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_7_2024-12-12"]
+aliases: ["/responses/bluebook/response_7_2024-12-12", "/responses/bluebook/pavitra-pandey-rubrik"]
 weight: 1
 linkedin: "https://linkedin.com/in/pvtr"
 companies: ["Rubrik"]

@@ -66,7 +66,8 @@ def convert_to_markdown(latest_file_path):
         data = json.load(file)
 
     data = convert_to_key_value_pair(data)
-    email_map = fetch_authorized_emails_from_github()
+    # email_map = fetch_authorized_emails_from_github()
+    email_map = {}
 
     markdown_content = f"---\n"
 
@@ -99,7 +100,7 @@ def convert_to_markdown(latest_file_path):
         markdown_content += f'date: "{timestamp}"\n'
 
     markdown_content += f'series: ["PaperMod"]\n'
-    markdown_content += f'aliases: ["/responses/bluebook/{os.path.basename(latest_file_path).replace(".json", "")}"]\n'
+    markdown_content += f'aliases: ["/responses/bluebook/{os.path.basename(latest_file_path).replace(".json", "")}", "/responses/bluebook/{get_file_name(latest_file_path)}"]\n'
     markdown_content += f'weight: 1\n'
 
     if linkedin:
@@ -150,7 +151,7 @@ def save_as_content_file(file_name, markdown_string):
         file.write(markdown_string)
 
 responses_folder = "responses"
-output_folder = "content/responses/bluebook"
+output_folder = "content/responses"
 
 if len(sys.argv) > 1 and sys.argv[1] == "--all":
     files_to_process = get_all_response_files(responses_folder)

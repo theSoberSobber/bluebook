@@ -4,7 +4,7 @@ summary: Read about my interview experience at Nutanix
 tags: ["Nutanix", "MANIT"]
 date: "2024-12-18T16:57:03.811Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_14_2024-12-18"]
+aliases: ["/responses/bluebook/response_14_2024-12-18", "/responses/bluebook/hemant-lodha-nutanix"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/hemant-lodha-0b0127244/"
 companies: ["Nutanix"]

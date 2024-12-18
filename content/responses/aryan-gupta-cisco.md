@@ -4,7 +4,7 @@ summary: Read about my interview experience at Cisco
 tags: ["Cisco", "DTU"]
 date: "2024-12-09T20:28:00.520Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_18_2024-12-09"]
+aliases: ["/responses/bluebook/response_18_2024-12-09", "/responses/bluebook/aryan-gupta-cisco"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/aryan-gupta-809509224"
 companies: ["Cisco"]

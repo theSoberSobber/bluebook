@@ -4,7 +4,7 @@ summary: Read about my interview experience at Arcesium
 tags: ["Arcesium", "IIIT Allahabad"]
 date: "2024-12-11T10:40:14.971Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_4_2024-12-11"]
+aliases: ["/responses/bluebook/response_4_2024-12-11", "/responses/bluebook/pavitra-pandey-arcesium"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/pvtr"
 companies: ["Arcesium"]

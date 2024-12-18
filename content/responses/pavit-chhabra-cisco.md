@@ -4,7 +4,7 @@ summary: Read about my interview experience at Cisco
 tags: ["Cisco", "MANIT"]
 date: "2024-12-03T21:28:11.072Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_1_2024-12-03"]
+aliases: ["/responses/bluebook/response_1_2024-12-03", "/responses/bluebook/pavit-chhabra-cisco"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/pavitchhabrawork/"
 companies: ["Cisco"]

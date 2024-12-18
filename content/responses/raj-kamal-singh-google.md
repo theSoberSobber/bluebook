@@ -4,7 +4,7 @@ summary: Read about my interview experience at Google
 tags: ["Google", "Maulana Azad national institute of technology"]
 date: "2024-12-18T17:22:30.919Z"
 series: ["PaperMod"]
-aliases: ["/responses/bluebook/response_15_2024-12-18"]
+aliases: ["/responses/bluebook/response_15_2024-12-18", "/responses/bluebook/raj-kamal-singh-google"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/rajkamal-singh-94680521b/"
 companies: ["Google"]

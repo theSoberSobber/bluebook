@@ -4,6 +4,7 @@ summary: Read about my interview experience at Zomato
 tags: ["Zomato", "MANIT Bhopal"]
 date: "2024-12-13T17:22:34.692Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_11_2024-12-13"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/navneet-kumar-323b4924b/"
 companies: ["Zomato"]

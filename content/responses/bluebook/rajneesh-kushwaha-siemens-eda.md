@@ -4,6 +4,7 @@ summary: Read about my interview experience at Siemens EDA
 tags: ["Siemens EDA", "Manit bhopal"]
 date: "2024-12-18T15:10:52.870Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_13_2024-12-18"]
 weight: 1
 companies: ["Siemens EDA"]
 colleges: ["Manit bhopal"]

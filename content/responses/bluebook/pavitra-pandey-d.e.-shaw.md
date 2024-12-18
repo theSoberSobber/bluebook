@@ -4,6 +4,7 @@ summary: Read about my interview experience at D.E. Shaw
 tags: ["D.E. Shaw", "IIIT Allahabad"]
 date: "2024-12-11T15:44:50.541Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_5_2024-12-11"]
 weight: 1
 linkedin: "https://linkedin.com/in/pvtr/"
 companies: ["D.E. Shaw"]

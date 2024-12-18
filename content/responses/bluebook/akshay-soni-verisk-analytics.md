@@ -1,15 +1,16 @@
 ---
-title: "Akshay Soni  - Verisk Analytics "
-summary: Read about my interview experience at Verisk Analytics 
-tags: ["Verisk Analytics ", "MANIT"]
+title: "Akshay Soni - Verisk Analytics"
+summary: Read about my interview experience at Verisk Analytics
+tags: ["Verisk Analytics", "MANIT"]
 date: "2024-12-08T09:26:11.507Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_16_2024-12-08"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/akshaysoni07?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-companies: ["Verisk Analytics "]
+companies: ["Verisk Analytics"]
 colleges: ["MANIT"]
 profiles: ["SDE"]
-author: ["Akshay Soni  - 211112251@stu.manit.ac.in"]
+author: ["Akshay Soni - 211112251@stu.manit.ac.in"]
 ---
 ---
 1. ### Name

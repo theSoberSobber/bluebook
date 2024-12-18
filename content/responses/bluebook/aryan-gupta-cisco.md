@@ -4,11 +4,12 @@ summary: Read about my interview experience at Cisco
 tags: ["Cisco", "DTU"]
 date: "2024-12-09T20:28:00.520Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_18_2024-12-09"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/aryan-gupta-809509224"
 companies: ["Cisco"]
 colleges: ["DTU"]
-profiles: ["SDE"]
+profiles: ["Summer Internship"]
 author: ["Aryan Gupta - aryangupta_it21a9_02@dtu.ac.in"]
 ---
 ---
@@ -44,7 +45,7 @@ author: ["Aryan Gupta - aryangupta_it21a9_02@dtu.ac.in"]
 
 6. ### Placement Profile
 
-> SDE
+> Summer Internship
 
 ---
 

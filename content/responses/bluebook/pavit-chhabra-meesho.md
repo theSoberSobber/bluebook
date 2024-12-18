@@ -1,10 +1,10 @@
 ---
 title: "Pavit Chhabra - Meesho"
 summary: Read about my interview experience at Meesho
-aliases: ["/pavit-chhabra-meesho-manit"]
 tags: ["Meesho", "MANIT"]
 date: "2024-12-03T21:49:33.867Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_2_2024-12-03"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/pavitchhabrawork/"
 companies: ["Meesho"]

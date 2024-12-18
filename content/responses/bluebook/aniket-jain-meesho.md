@@ -4,6 +4,7 @@ summary: Read about my interview experience at Meesho
 tags: ["Meesho", "MANIT"]
 date: "2024-12-09T08:25:08.380Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_17_2024-12-09"]
 weight: 1
 companies: ["Meesho"]
 colleges: ["MANIT"]

@@ -4,6 +4,7 @@ summary: Read about my interview experience at Nvidia
 tags: ["Nvidia", "Maulana Azad National Institute of Technology"]
 date: "2024-12-11T21:11:49.037Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_6_2024-12-11"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/atharvakj/"
 companies: ["Nvidia"]

@@ -4,6 +4,7 @@ summary: Read about my interview experience at Oracle
 tags: ["Oracle", "Maulana Azad National Institute of Technology Bhopal"]
 date: "2024-12-10T12:24:49.498Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_20_2024-12-10"]
 weight: 1
 companies: ["Oracle"]
 colleges: ["Maulana Azad National Institute of Technology Bhopal"]

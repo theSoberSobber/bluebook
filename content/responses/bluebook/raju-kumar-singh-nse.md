@@ -4,6 +4,7 @@ summary: Read about my interview experience at NSE
 tags: ["NSE", "Maulana Azad National Institute of Technology Bhopal"]
 date: "2024-12-12T03:22:16.891Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_8_2024-12-12"]
 weight: 1
 companies: ["NSE"]
 colleges: ["Maulana Azad National Institute of Technology Bhopal"]

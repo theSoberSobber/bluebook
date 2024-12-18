@@ -4,6 +4,7 @@ summary: Read about my interview experience at UnifyApps
 tags: ["UnifyApps", "IIT GUWAHATI"]
 date: "2024-12-10T08:11:13.888Z"
 series: ["PaperMod"]
+aliases: ["/responses/bluebook/response_19_2024-12-10"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/raghav-arora-97546a201"
 companies: ["UnifyApps"]

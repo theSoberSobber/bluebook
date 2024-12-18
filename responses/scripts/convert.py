@@ -80,8 +80,8 @@ def convert_to_markdown(latest_file_path):
                 e
                 for e in [
                     data.get("email", "").strip(),
-                    data.get("data", {}).get("Email", "")[0].strip(),
-                    email_map.get(data.get("data", {}).get("Email", "")[0].strip(), "").strip()
+                    data.get("data", {}).get("Email", "").strip(),
+                    email_map.get(data.get("data", {}).get("Email", "").strip(), "").strip()
                 ]
                 if e.endswith(".ac.in")
             ),
@@ -99,7 +99,7 @@ def convert_to_markdown(latest_file_path):
         markdown_content += f'date: "{timestamp}"\n'
 
     markdown_content += f'series: ["PaperMod"]\n'
-    markdown_content += f'aliases: [/{os.path.basename(latest_file_path)}]'
+    markdown_content += f'aliases: ["/responses/bluebook/{os.path.basename(latest_file_path).replace(".json", "")}"]\n'
     markdown_content += f'weight: 1\n'
 
     if linkedin:
@@ -141,9 +141,9 @@ def get_file_name(latest_file_path):
     data = convert_to_key_value_pair(data)
 
     name = data["data"].get("Name", "").strip() or None
-    college = data["data"].get("College", "").strip() or None
+    # college = data["data"].get("College", "").strip() or None
     company = data["data"].get("Company Appeared For", "").strip() or None
-    return f"{name.replace(' ', '-')}-{company.replace(' ', '-')}-{college.replace(' ', '-')}"
+    return f"{name.lower().replace(' ', '-')}-{company.lower().replace(' ', '-')}"
 
 def save_as_content_file(file_name, markdown_string):
     with open(file_name, 'w', encoding='utf-8') as file:

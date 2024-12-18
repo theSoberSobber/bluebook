@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Winter Internship on Bluebook</title>
+    <link>http://localhost:1313/bluebook/profiles/winter-internship/</link>
+    <description>Recent content in Winter Internship on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>http://localhost:1313/bluebook/bluebook-logo.png</url>
+      <link>http://localhost:1313/bluebook/bluebook-logo.png</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Dec 2024 03:10:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/bluebook/profiles/winter-internship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pavitra Pandey - Rubrik</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/pavitra-pandey-rubrik/</link>
+      <pubDate>Thu, 12 Dec 2024 03:10:57 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/pavitra-pandey-rubrik/</guid>
+      <description>Read about my interview experience at Rubrik</description>
+    </item>
+    <item>
+      <title>Pavitra Pandey - D.E. Shaw</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/pavitra-pandey-d.e.-shaw/</link>
+      <pubDate>Wed, 11 Dec 2024 15:44:50 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/pavitra-pandey-d.e.-shaw/</guid>
+      <description>Read about my interview experience at D.E. Shaw</description>
+    </item>
+  </channel>
+</rss>

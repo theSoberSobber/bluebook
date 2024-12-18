@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maulana Azad National Institute of Technology Bhopal on Bluebook</title>
+    <link>http://localhost:1313/bluebook/colleges/maulana-azad-national-institute-of-technology-bhopal/</link>
+    <description>Recent content in Maulana Azad National Institute of Technology Bhopal on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>http://localhost:1313/bluebook/bluebook-logo.png</url>
+      <link>http://localhost:1313/bluebook/bluebook-logo.png</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Dec 2024 03:22:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/bluebook/colleges/maulana-azad-national-institute-of-technology-bhopal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raju Kumar Singh - NSE</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/raju-kumar-singh-nse/</link>
+      <pubDate>Thu, 12 Dec 2024 03:22:16 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/raju-kumar-singh-nse/</guid>
+      <description>Read about my interview experience at NSE</description>
+    </item>
+    <item>
+      <title>Mohit Mahor - Oracle</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/mohit-mahor-oracle/</link>
+      <pubDate>Tue, 10 Dec 2024 12:24:49 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/mohit-mahor-oracle/</guid>
+      <description>Read about my interview experience at Oracle</description>
+    </item>
+  </channel>
+</rss>

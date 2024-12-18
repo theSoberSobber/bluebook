@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zomato on Bluebook</title>
+    <link>http://localhost:1313/bluebook/tags/zomato/</link>
+    <description>Recent content in Zomato on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>http://localhost:1313/bluebook/bluebook-logo.png</url>
+      <link>http://localhost:1313/bluebook/bluebook-logo.png</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Dec 2024 17:22:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/bluebook/tags/zomato/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navneet Kumar - Zomato</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/navneet-kumar-zomato/</link>
+      <pubDate>Fri, 13 Dec 2024 17:22:34 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/navneet-kumar-zomato/</guid>
+      <description>Read about my interview experience at Zomato</description>
+    </item>
+  </channel>
+</rss>

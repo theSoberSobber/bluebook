@@ -1,0 +1,58 @@
+{
+  "timestamp": "2024-12-19T15:56:08.045Z",
+  "email": "vikrantsingh9955@gmail.com",
+  "data": {
+    "Name": [
+      "Vikrant Singh Sisodiya "
+    ],
+    "Email": [
+      "211114212@stu.manit.ac.in"
+    ],
+    "College": [
+      "MANIT"
+    ],
+    "Linkedin Profile (if interested)": [],
+    "CV/Resume (if interested)": [],
+    "CGPA at the time of Selection (if interested) ": [
+      "8.56"
+    ],
+    "Company Appeared For": [
+      "AMD"
+    ],
+    "Placement Profile": [
+      "Hardware"
+    ],
+    "Mode of Online Assessment": [
+      "Online"
+    ],
+    "Online Assessment Difficulty (out of 5)": [
+      "5"
+    ],
+    "Online Assessment Round Questions": [
+      "Apptitude,c programming and hard  questions  from  sequencial circuits"
+    ],
+    "Mode of Interview(s)": [
+      "Online"
+    ],
+    "Number of Interview Rounds": [
+      "3"
+    ],
+    "Interview Experience": [
+      "In round 1 ,questions are based on fundamental  concepts of digital electronics\nLike  gate from mux,moore mealy,d flip flop code,synchronous  and asynchronous   reset,half adder verilog,jk to d  flip flop conversion.\nIn round 2,basic c programming  questions,why do we require synchronous  fifo\nIn round 3, description about  projects, verilog code of RAM,frequency  generators\nAlso oops concepts was asked in each round."
+    ],
+    "Level of Difficulty of Interview(s)": [
+      "5"
+    ],
+    "Tips/Sources for Interview Preparation": [],
+    "Were Society Position of Responsibility given any Importance?": [
+      "No"
+    ],
+    "Did the Interviewer(s) Focus on asking questions from CV/Resume": [
+      "Yes"
+    ],
+    "Were the interview questions relevant to the JD Circulated? (if applicable)": [
+      "Yes"
+    ],
+    "Any other relevant information": []
+  }
+}

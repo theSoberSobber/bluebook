@@ -1,0 +1,58 @@
+{
+  "timestamp": "2024-12-19T16:11:40.990Z",
+  "email": "214104020@stu.manit.ac.in",
+  "data": {
+    "Name": [
+      "Sanyam jain"
+    ],
+    "Email": [
+      "214104020@stu.manit.ac.in"
+    ],
+    "College": [
+      "MANIT"
+    ],
+    "Linkedin Profile (if interested)": [
+      "https://www.linkedin.com/in/the-sanyam"
+    ],
+    "CV/Resume (if interested)": [],
+    "CGPA at the time of Selection (if interested) ": [],
+    "Company Appeared For": [
+      "PayPal"
+    ],
+    "Placement Profile": [
+      "Summer Internship"
+    ],
+    "Mode of Online Assessment": [
+      "Online"
+    ],
+    "Online Assessment Difficulty (out of 5)": [
+      "3"
+    ],
+    "Online Assessment Round Questions": [
+      "ROLE: DATA ANALYST INTERN\n\nThe test consisted of 21 questions, including one coding challenge focused on pandas, and 20 multiple-choice questions covering statistics, data interpretation, and general aptitude. We were given 75 minutes to complete the test."
+    ],
+    "Mode of Interview(s)": [
+      "Online"
+    ],
+    "Number of Interview Rounds": [
+      "2"
+    ],
+    "Interview Experience": [
+      "ROLE: DATA ANALYST INTERN\n\nINTERVIEW 1- Aptitude type questions, Medium level SQL query to run.\n\nINTERVIEW 2- Intro, Some basic ML questions, Project and skills related questions from Resume, a case study type question."
+    ],
+    "Level of Difficulty of Interview(s)": [
+      "3"
+    ],
+    "Tips/Sources for Interview Preparation": [],
+    "Were Society Position of Responsibility given any Importance?": [
+      "Maybe, can't tell certainly"
+    ],
+    "Did the Interviewer(s) Focus on asking questions from CV/Resume": [
+      "Yes"
+    ],
+    "Were the interview questions relevant to the JD Circulated? (if applicable)": [],
+    "Any other relevant information": [
+      "In the end, I got selected for the 12 week Summer internship for Data analyst role. \n\nTry to solve every SQL question from Hackerrank, then go to Leetcode if required. Build some awesome data science projects."
+    ]
+  }
+}

@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://pavit.xyz/bluebook/sitemap.xml

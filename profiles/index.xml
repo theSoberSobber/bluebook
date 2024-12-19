@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Dec 2024 15:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 15:56:08 +0000</lastBuildDate>
     <atom:link href="https://bluebook.pavit.xyz/profiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardware</title>
+      <link>https://bluebook.pavit.xyz/profiles/hardware/</link>
+      <pubDate>Thu, 19 Dec 2024 15:56:08 +0000</pubDate>
+      <guid>https://bluebook.pavit.xyz/profiles/hardware/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Electronics Core</title>
       <link>https://bluebook.pavit.xyz/profiles/electronics-core/</link>

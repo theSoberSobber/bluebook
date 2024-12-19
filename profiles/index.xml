@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Dec 2024 14:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:43:31 +0000</lastBuildDate>
     <atom:link href="https://bluebook.pavit.xyz/profiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chemical Core</title>
+      <link>https://bluebook.pavit.xyz/profiles/chemical-core/</link>
+      <pubDate>Thu, 19 Dec 2024 14:43:31 +0000</pubDate>
+      <guid>https://bluebook.pavit.xyz/profiles/chemical-core/</guid>
+      <description></description>
+    </item>
     <item>
       <title>SDE</title>
       <link>https://bluebook.pavit.xyz/profiles/sde/</link>

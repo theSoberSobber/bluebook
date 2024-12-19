@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IIT GUWAHATI on Bluebook</title>
+    <link>https://bluebook.pavit.xyz/colleges/iit-guwahati/</link>
+    <description>Recent content in IIT GUWAHATI on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>https://bluebook.pavit.xyz/bluebook-logo.png</url>
+      <link>https://bluebook.pavit.xyz/bluebook-logo.png</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Dec 2024 08:11:13 +0000</lastBuildDate>
+    <atom:link href="https://bluebook.pavit.xyz/colleges/iit-guwahati/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raghav Arora - UnifyApps</title>
+      <link>https://bluebook.pavit.xyz/responses/raghav-arora-unifyapps/</link>
+      <pubDate>Tue, 10 Dec 2024 08:11:13 +0000</pubDate>
+      <guid>https://bluebook.pavit.xyz/responses/raghav-arora-unifyapps/</guid>
+      <description>Read about my interview experience at UnifyApps</description>
+    </item>
+  </channel>
+</rss>

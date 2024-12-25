@@ -1,14 +1,14 @@
 ---
-title: "Ayush Maurya - D.E Shaw"
-summary: Read about my interview experience at D.E Shaw
-tags: ["D.E Shaw", "MANIT, Bhopal"]
+title: "Ayush Maurya - DE Shaw"
+summary: Read about my interview experience at DE Shaw
+tags: ["DE Shaw", "MANIT Bhopal"]
 date: "2024-12-20T07:19:53.558Z"
 series: ["PaperMod"]
 aliases: ["/responses/bluebook/response_24_2024-12-20", "/responses/bluebook/ayush-maurya-d.e-shaw"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/ayush5556/"
-companies: ["D.E Shaw"]
-colleges: ["MANIT, Bhopal"]
+companies: ["DE Shaw"]
+colleges: ["MANIT Bhopal"]
 profiles: ["Summer Internship"]
 author: ["Ayush Maurya - 2240401124@stu.manit.ac.in"]
 ---
@@ -25,13 +25,13 @@ author: ["Ayush Maurya - 2240401124@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/ayush5556/
 
 ---
 
-4. ### CV/Resume (if interested)
+4. ### CV/Resume
 
 > {{< collapse summary="Expand" >}}
 
@@ -41,7 +41,7 @@ author: ["Ayush Maurya - 2240401124@stu.manit.ac.in"]
 
 ---
 
-5. ### CGPA at the time of Selection (if interested) 
+5. ### CGPA at the time of Selection
 
 > 9.92
 

@@ -24,7 +24,7 @@ author: ["Aniket Jain - 211114071@stu.manit.ac.in"]
 
 ---
 
-3. ### CGPA at the time of Selection (if interested) 
+3. ### CGPA at the time of Selection
 
 > 9.33
 

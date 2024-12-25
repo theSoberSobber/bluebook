@@ -25,13 +25,13 @@ author: ["Arpit Gupta - 211114054@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/arpit-gupta-url
 
 ---
 
-4. ### CGPA at the time of Selection (if interested) 
+4. ### CGPA at the time of Selection
 
 > 8.36
 

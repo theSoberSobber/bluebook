@@ -1,14 +1,14 @@
 ---
 title: "Arnav Dubey - Cimpress"
 summary: Read about my interview experience at Cimpress
-tags: ["Cimpress", "MANIT, Bhopal"]
+tags: ["Cimpress", "MANIT Bhopal"]
 date: "2024-12-18T18:14:48.127Z"
 series: ["PaperMod"]
 aliases: ["/responses/bluebook/response_16_2024-12-18", "/responses/bluebook/arnav-dubey-cimpress"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/arnav-dubey-software-developer/"
 companies: ["Cimpress"]
-colleges: ["MANIT, Bhopal"]
+colleges: ["MANIT Bhopal"]
 profiles: ["SDE"]
 author: ["Arnav Dubey - 211112469@stu.manit.ac.in"]
 ---
@@ -25,7 +25,7 @@ author: ["Arnav Dubey - 211112469@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > {{< collapse summary="Expand" >}}
 
@@ -35,7 +35,7 @@ https://www.linkedin.com/in/arnav-dubey-software-developer/
 
 ---
 
-4. ### CV/Resume (if interested)
+4. ### CV/Resume
 
 > {{< collapse summary="Expand" >}}
 
@@ -45,7 +45,7 @@ https://www.linkedin.com/in/arnav-dubey-software-developer/
 
 ---
 
-5. ### CGPA at the time of Selection (if interested) 
+5. ### CGPA at the time of Selection
 
 > 7.7
 

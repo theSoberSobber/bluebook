@@ -1,13 +1,13 @@
 ---
-title: "Pavitra Pandey - D.E. Shaw"
-summary: Read about my interview experience at D.E. Shaw
-tags: ["D.E. Shaw", "IIIT Allahabad"]
+title: "Pavitra Pandey - DE Shaw"
+summary: Read about my interview experience at DE Shaw
+tags: ["DE Shaw", "IIIT Allahabad"]
 date: "2024-12-11T15:44:50.541Z"
 series: ["PaperMod"]
 aliases: ["/responses/bluebook/response_5_2024-12-11", "/responses/bluebook/pavitra-pandey-d.e.-shaw"]
 weight: 1
 linkedin: "https://linkedin.com/in/pvtr/"
-companies: ["D.E. Shaw"]
+companies: ["DE Shaw"]
 colleges: ["IIIT Allahabad"]
 profiles: ["Winter Internship"]
 author: ["Pavitra Pandey - iec2021066@iiita.ac.in"]
@@ -25,13 +25,13 @@ author: ["Pavitra Pandey - iec2021066@iiita.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://linkedin.com/in/pvtr/
 
 ---
 
-4. ### CV/Resume (if interested)
+4. ### CV/Resume
 
 > {{< collapse summary="Expand" >}}
 
@@ -41,7 +41,7 @@ author: ["Pavitra Pandey - iec2021066@iiita.ac.in"]
 
 ---
 
-5. ### CGPA at the time of Selection (if interested) 
+5. ### CGPA at the time of Selection
 
 > 8.32
 

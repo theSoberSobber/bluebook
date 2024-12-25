@@ -25,7 +25,7 @@ author: ["Sushobhit Mallick - 211117029@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > {{< collapse summary="Expand" >}}
 
@@ -35,7 +35,7 @@ https://www.linkedin.com/in/sushobhit-mallick-0b5a52243
 
 ---
 
-4. ### CV/Resume (if interested)
+4. ### CV/Resume
 
 > {{< collapse summary="Expand" >}}
 
@@ -45,7 +45,7 @@ https://www.linkedin.com/in/sushobhit-mallick-0b5a52243
 
 ---
 
-5. ### CGPA at the time of Selection (if interested) 
+5. ### CGPA at the time of Selection
 
 > 9.52
 

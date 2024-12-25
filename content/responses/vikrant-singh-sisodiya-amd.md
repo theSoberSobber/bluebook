@@ -24,7 +24,7 @@ author: ["Vikrant Singh Sisodiya - 211114212@stu.manit.ac.in"]
 
 ---
 
-3. ### CGPA at the time of Selection (if interested) 
+3. ### CGPA at the time of Selection
 
 > 8.56
 

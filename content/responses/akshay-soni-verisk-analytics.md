@@ -25,7 +25,7 @@ author: ["Akshay Soni - 211112251@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > {{< collapse summary="Expand" >}}
 

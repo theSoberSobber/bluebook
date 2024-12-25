@@ -25,7 +25,7 @@ author: ["Akshat Saxena - 211112272@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/akshat-saxena-4a01bb237/
 

@@ -25,13 +25,13 @@ author: ["Pavit Chhabra - 211112267@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/pavitchhabrawork/
 
 ---
 
-4. ### CGPA at the time of Selection (if interested) 
+4. ### CGPA at the time of Selection
 
 > 8.48
 

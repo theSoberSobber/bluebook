@@ -1,5 +1,5 @@
 ---
-title: "Raj kamal Singh - Google"
+title: "Raj Kamal Singh - Google"
 summary: Read about my interview experience at Google
 tags: ["Google", "Maulana Azad national institute of technology"]
 date: "2024-12-18T17:22:30.919Z"
@@ -10,7 +10,7 @@ linkedin: "https://www.linkedin.com/in/rajkamal-singh-94680521b/"
 companies: ["Google"]
 colleges: ["Maulana Azad national institute of technology"]
 profiles: ["Summer Internship"]
-author: ["Raj kamal Singh - 2211301135@stu.manit.ac.in"]
+author: ["Raj Kamal Singh - 2211301135@stu.manit.ac.in"]
 ---
 ---
 1. ### Name
@@ -25,13 +25,13 @@ author: ["Raj kamal Singh - 2211301135@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/rajkamal-singh-94680521b/
 
 ---
 
-4. ### CV/Resume (if interested)
+4. ### CV/Resume
 
 > {{< collapse summary="Expand" >}}
 
@@ -41,7 +41,7 @@ author: ["Raj kamal Singh - 2211301135@stu.manit.ac.in"]
 
 ---
 
-5. ### CGPA at the time of Selection (if interested) 
+5. ### CGPA at the time of Selection
 
 > 8.98
 

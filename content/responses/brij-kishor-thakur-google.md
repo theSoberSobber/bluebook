@@ -1,14 +1,14 @@
 ---
 title: "Brij Kishor Thakur - Google"
 summary: Read about my interview experience at Google
-tags: ["Google", "MANIT, Bhopal"]
+tags: ["Google", "MANIT Bhopal"]
 date: "2024-12-19T05:25:20.154Z"
 series: ["PaperMod"]
 aliases: ["/responses/bluebook/response_17_2024-12-19", "/responses/bluebook/brij-kishor-thakur-google"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/brij-kishor-thakur-233065278/"
 companies: ["Google"]
-colleges: ["MANIT, Bhopal"]
+colleges: ["MANIT Bhopal"]
 profiles: ["Summer Internship"]
 author: ["Brij Kishor Thakur - 2211201223@stu.manit.ac.in"]
 ---
@@ -25,7 +25,7 @@ author: ["Brij Kishor Thakur - 2211201223@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > {{< collapse summary="Expand" >}}
 
@@ -35,7 +35,7 @@ https://www.linkedin.com/in/brij-kishor-thakur-233065278/
 
 ---
 
-4. ### CGPA at the time of Selection (if interested) 
+4. ### CGPA at the time of Selection
 
 > 8.06
 

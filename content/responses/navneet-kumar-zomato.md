@@ -25,13 +25,13 @@ author: ["Navneet Kumar - 211114022@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/navneet-kumar-323b4924b/
 
 ---
 
-4. ### CGPA at the time of Selection (if interested) 
+4. ### CGPA at the time of Selection
 
 > 8.98
 

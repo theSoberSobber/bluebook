@@ -1,14 +1,14 @@
 ---
 title: "Trishal Makhija - Ecom Express"
 summary: Read about my interview experience at Ecom Express
-tags: ["Ecom Express", "Maulana Azad National Institute of Technology, Bhopal"]
+tags: ["Ecom Express", "Maulana Azad National Institute of Technology Bhopal"]
 date: "2024-12-19T15:12:00.417Z"
 series: ["PaperMod"]
 aliases: ["/responses/bluebook/response_20_2024-12-19", "/responses/bluebook/trishal-makhija-ecom-express"]
 weight: 1
 linkedin: "https://www.linkedin.com/in/trishal-makhija-095732228"
 companies: ["Ecom Express"]
-colleges: ["Maulana Azad National Institute of Technology, Bhopal"]
+colleges: ["Maulana Azad National Institute of Technology Bhopal"]
 profiles: ["SDE"]
 author: ["Trishal Makhija - 211112231@stu.manit.ac.in"]
 ---
@@ -25,13 +25,13 @@ author: ["Trishal Makhija - 211112231@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/trishal-makhija-095732228
 
 ---
 
-4. ### CV/Resume (if interested)
+4. ### CV/Resume
 
 > {{< collapse summary="Expand" >}}
 
@@ -41,7 +41,7 @@ author: ["Trishal Makhija - 211112231@stu.manit.ac.in"]
 
 ---
 
-5. ### CGPA at the time of Selection (if interested) 
+5. ### CGPA at the time of Selection
 
 > 8.52
 

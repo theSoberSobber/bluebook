@@ -25,13 +25,13 @@ author: ["Raghav Arora - raghav.arora@iitg.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/raghav-arora-97546a201
 
 ---
 
-4. ### CGPA at the time of Selection (if interested) 
+4. ### CGPA at the time of Selection
 
 > 7.9
 

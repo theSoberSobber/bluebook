@@ -72,8 +72,14 @@ def convert_to_markdown(latest_file_path):
     markdown_content = f"---\n"
 
     name = data["data"].get("Name", "").strip() or None
+    if name is not None:
+        name = " ".join(word[0].upper() + word[1:] for word in name.split(' '))
     college = data["data"].get("College", "").strip() or None
+    if college is not None:
+        college = college.replace(",", "") # some were using commas in college names, those don't translate in URLs, leading to overcounting
     company = data["data"].get("Company Appeared For", "").strip() or None
+    if company:
+        company = company.replace(".", "") # de shaw normalization
     linkedin = data["data"].get("Linkedin Profile (if interested)", "").strip() or None
     placement_profile = data["data"].get("Placement Profile", "").strip() or None
     email = (
@@ -125,7 +131,8 @@ def convert_to_markdown(latest_file_path):
 
     for key in data["data"]:
         if key.lower() == "email": continue
-        markdown_content += f'{question_number}. ### {key}\n\n'
+        displayKey = key.replace("(if interested)", "").strip() # remove if interested part from being displayed in optional questions
+        markdown_content += f'{question_number}. ### {displayKey}\n\n'
         markdown_content += f'> '
         markdown_content += (f'{{{{< collapse summary="Expand" >}}}}\n\n{data["data"][key]}\n\n{{{{< /collapse >}}}}\n' 
                                 if len(data["data"][key]) > 54

@@ -25,13 +25,13 @@ author: ["Aryan Gupta - aryangupta_it21a9_02@dtu.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/aryan-gupta-809509224
 
 ---
 
-4. ### CGPA at the time of Selection (if interested) 
+4. ### CGPA at the time of Selection
 
 > 8.81
 

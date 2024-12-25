@@ -25,13 +25,13 @@ author: ["Pavitra Pandey - iec2021066@iiita.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://linkedin.com/in/pvtr
 
 ---
 
-4. ### CV/Resume (if interested)
+4. ### CV/Resume
 
 > {{< collapse summary="Expand" >}}
 
@@ -41,7 +41,7 @@ author: ["Pavitra Pandey - iec2021066@iiita.ac.in"]
 
 ---
 
-5. ### CGPA at the time of Selection (if interested) 
+5. ### CGPA at the time of Selection
 
 > 8.32
 

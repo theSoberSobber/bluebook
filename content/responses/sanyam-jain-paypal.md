@@ -1,5 +1,5 @@
 ---
-title: "Sanyam jain - PayPal"
+title: "Sanyam Jain - PayPal"
 summary: Read about my interview experience at PayPal
 tags: ["PayPal", "MANIT"]
 date: "2024-12-19T16:11:40.990Z"
@@ -10,7 +10,7 @@ linkedin: "https://www.linkedin.com/in/the-sanyam"
 companies: ["PayPal"]
 colleges: ["MANIT"]
 profiles: ["Summer Internship"]
-author: ["Sanyam jain - 214104020@stu.manit.ac.in"]
+author: ["Sanyam Jain - 214104020@stu.manit.ac.in"]
 ---
 ---
 1. ### Name
@@ -25,7 +25,7 @@ author: ["Sanyam jain - 214104020@stu.manit.ac.in"]
 
 ---
 
-3. ### Linkedin Profile (if interested)
+3. ### Linkedin Profile
 
 > https://www.linkedin.com/in/the-sanyam
 

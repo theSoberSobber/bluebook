@@ -24,7 +24,7 @@ author: ["Mohit Mahor - 211112234@stu.manit.ac.in"]
 
 ---
 
-3. ### CGPA at the time of Selection (if interested) 
+3. ### CGPA at the time of Selection
 
 > 8.50
 

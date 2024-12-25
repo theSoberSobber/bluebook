@@ -74,12 +74,15 @@ def convert_to_markdown(latest_file_path):
     name = data["data"].get("Name", "").strip() or None
     if name is not None:
         name = " ".join(word[0].upper() + word[1:] for word in name.split(' '))
+        data["data"]["Name"] = name
     college = data["data"].get("College", "").strip() or None
     if college is not None:
         college = college.replace(",", "") # some were using commas in college names, those don't translate in URLs, leading to overcounting
+        data["data"]["College"] = college
     company = data["data"].get("Company Appeared For", "").strip() or None
     if company:
         company = company.replace(".", "") # de shaw normalization
+        data["data"]["Company Appeared For"] = company
     linkedin = data["data"].get("Linkedin Profile (if interested)", "").strip() or None
     placement_profile = data["data"].get("Placement Profile", "").strip() or None
     email = (

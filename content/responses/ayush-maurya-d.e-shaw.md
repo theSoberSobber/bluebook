@@ -21,7 +21,7 @@ author: ["Ayush Maurya - 2240401124@stu.manit.ac.in"]
 
 2. ### College
 
-> MANIT, Bhopal
+> MANIT Bhopal
 
 ---
 
@@ -49,7 +49,7 @@ author: ["Ayush Maurya - 2240401124@stu.manit.ac.in"]
 
 6. ### Company Appeared For
 
-> D.E Shaw
+> DE Shaw
 
 ---
 

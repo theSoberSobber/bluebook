@@ -54,7 +54,7 @@ outputs:
 
 params:
   env: production
-  description: "Bluebook"
+  description: "Bluebook is designed to compile previous year interview experiences to help you better prepare for your placement interviews and online assessments."
   author: Created by Pavit C
 
   defaultTheme: dark

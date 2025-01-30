@@ -43,7 +43,7 @@ languages:
           url: colleges/
           weight: 20
         - name: Submit Response!
-          url: https://forms.gle/NSSLd1KtiLMn2q6j6
+          url: https://forms.gle/mNYkDd8PkzX9X4EA9
 
 # enables search
 outputs:
@@ -78,20 +78,20 @@ params:
 
       - **Bluebook** is designed to compile previous year interview experiences to help you better prepare for your placement interviews and online assessments.
 
-      - [Click here (🔗) to fill in your response.](https://forms.gle/BVd4dQfg6Y9TWmHb8)
+      - [Click here (🔗) to fill in your response.](https://forms.gle/mNYkDd8PkzX9X4EA9)
 
     WarningBoxContent: >
-      **Please note that your response will be REJECTED if you don't use an Academic Email or an Authorized Email.**
+      **NOT FOR MANIT: Please note that your response will be REJECTED if you don't use an Academic Email or an Authorized Email.**
     AfterBoxContent: >
-      - [Click here (🔗) to see how to get your email auto-authorized.](/authorization-guide)
+      - [NOT FOR MANIT: Click here (🔗) to see how to get your email auto-authorized.](/authorization-guide)
 
   socialIcons:
     - name: github3
       title: Upload your interview experience
-      url: "https://forms.gle/BVd4dQfg6Y9TWmHb8"
+      url: "https://forms.gle/mNYkDd8PkzX9X4EA9"
     - name: X
       title: Share Bluebook on X/Twitter
-      url: "https://twitter.com/intent/tweet?text=I%20am%20using%20%E2%9C%A8Bluebook%E2%9C%A8%20to%20prepare%20for%20my%20Interviews%20and%20Assessments!%20%E2%9C%94%20You%20can%20also%20use%20it%20here!%20https%3A//bluebook.pavit.xyz%0AIf%20you%20are%20interested%20in%20being%20featured%20you%20can%20fill%20out%20your%20response%20here!%20https%3A//forms.gle/BVd4dQfg6Y9TWmHb8%0A%23Bluebook%20%23Interviews%20%23OA%20%23OLT%20%20"
+      url: "https://twitter.com/intent/tweet?text=I%20am%20using%20%E2%9C%A8Bluebook%E2%9C%A8%20to%20prepare%20for%20my%20Interviews%20and%20Assessments!%20%E2%9C%94%20You%20can%20also%20use%20it%20here!%20https%3A//bluebook.pavit.xyz%0AIf%20you%20are%20interested%20in%20being%20featured%20you%20can%20fill%20out%20your%20response%20here!%20https%3A//forms.gle/mNYkDd8PkzX9X4EA9%0A%23Bluebook%20%23Interviews%20%23OA%20%23OLT%20%20"
     - name: Linkedin
       title: Share Bluebook on Linkedin :)
       url: "https://www.linkedin.com/shareArticle?mini=true&url=https%3A//pavit.xyz/bluebook"

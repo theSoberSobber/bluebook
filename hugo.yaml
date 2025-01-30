@@ -81,7 +81,7 @@ params:
       - [Click here (🔗) to fill in your response.](https://forms.gle/mNYkDd8PkzX9X4EA9)
 
     WarningBoxContent: >
-      **Please note that your response will be REJECTED if you don't use a @stu.manit.ac.in Email.**
+      **MANIT ONLY: Please note that your response will be REJECTED if you don't use a @stu.manit.ac.in Email.**
     AfterBoxContent: >
       - [FOR NON MANIT ONLY: Click here (🔗) to see how to get your email auto-authorized.](/authorization-guide)
 

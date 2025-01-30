@@ -81,9 +81,9 @@ params:
       - [Click here (🔗) to fill in your response.](https://forms.gle/mNYkDd8PkzX9X4EA9)
 
     WarningBoxContent: >
-      **NOT FOR MANIT: Please note that your response will be REJECTED if you don't use an Academic Email or an Authorized Email.**
+      **Please note that your response will be REJECTED if you don't use a @stu.manit.ac.in Email.**
     AfterBoxContent: >
-      - [NOT FOR MANIT: Click here (🔗) to see how to get your email auto-authorized.](/authorization-guide)
+      - [FOR NON MANIT ONLY: Click here (🔗) to see how to get your email auto-authorized.](/authorization-guide)
 
   socialIcons:
     - name: github3

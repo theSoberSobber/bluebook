@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-02-05T16:29:53.490Z",
+  "email": "211113035@stu.manit.ac.in",
+  "data": {
+    "Name": [
+      "Kiran Satpute"
+    ],
+    "College": [
+      "MANIT Bhopal"
+    ],
+    "Linkedin Profile (if interested)": [],
+    "CV/Resume (if interested)": [],
+    "CGPA at the time of Selection (if interested) ": [
+      "7.82"
+    ],
+    "Company Appeared For": [
+      "Amazon"
+    ],
+    "Placement Profile": [
+      "Support engineering intern"
+    ],
+    "Mode of Online Assessment": [
+      "Online"
+    ],
+    "Online Assessment Difficulty (out of 5)": [
+      "4"
+    ],
+    "Online Assessment Round Questions": [
+      "Coding\nCs fundamental (os, cn, Linux) "
+    ],
+    "Mode of Interview(s)": [
+      "Online"
+    ],
+    "Number of Interview Rounds": [
+      "2"
+    ],
+    "Interview Experience": [
+      "2 coding question asked , one question was from heap, kth maximum element of the array and second question was based on tree max path sum. Most frequently asked que from CN OS , Oops and Amazon leadership principles. "
+    ],
+    "Level of Difficulty of Interview(s)": [
+      "4"
+    ],
+    "Tips/Sources for Interview Preparation": [
+      "Gfg interview experience \nInterviewbit\n"
+    ],
+    "Were Society Position of Responsibility given any Importance?": [
+      "Yes"
+    ],
+    "Did the Interviewer(s) Focus on asking questions from CV/Resume": [
+      "Yes"
+    ],
+    "Were the interview questions relevant to the JD Circulated? (if applicable)": [
+      "Yes"
+    ],
+    "Any other relevant information": []
+  }
+}

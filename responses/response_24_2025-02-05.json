@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-02-05T12:28:36.089Z",
+  "email": "211114256@stu.manit.ac.in",
+  "data": {
+    "Name": [
+      "Sanidhya Vijay"
+    ],
+    "College": [
+      "MANIT Bhopal"
+    ],
+    "Linkedin Profile (if interested)": [
+      "https://www.linkedin.com/in/sanidhya-vijay-02b183229/"
+    ],
+    "CV/Resume (if interested)": [],
+    "CGPA at the time of Selection (if interested) ": [
+      "7.96"
+    ],
+    "Company Appeared For": [
+      "Qubits Education Pvt. Ltd."
+    ],
+    "Placement Profile": [
+      "SDE"
+    ],
+    "Mode of Online Assessment": [
+      "Online"
+    ],
+    "Online Assessment Difficulty (out of 5)": [
+      "3"
+    ],
+    "Online Assessment Round Questions": [
+      "There were 3 standard CP questions on Hackerrank.\nDifficulty - 1200-1400 rating on Codeforces"
+    ],
+    "Mode of Interview(s)": [
+      "Online"
+    ],
+    "Number of Interview Rounds": [
+      "2"
+    ],
+    "Interview Experience": [
+      "First round was DSA round in which a non standard graph + Linked list question was asked. Difficulty was in between Leetcode medium to hard.\nSecond round was tech round which focused on projects and core CS subjects like OS and Computer Networks"
+    ],
+    "Level of Difficulty of Interview(s)": [
+      "3"
+    ],
+    "Tips/Sources for Interview Preparation": [],
+    "Were Society Position of Responsibility given any Importance?": [
+      "No"
+    ],
+    "Did the Interviewer(s) Focus on asking questions from CV/Resume": [
+      "Yes"
+    ],
+    "Were the interview questions relevant to the JD Circulated? (if applicable)": [
+      "Yes"
+    ],
+    "Any other relevant information": []
+  }
+}

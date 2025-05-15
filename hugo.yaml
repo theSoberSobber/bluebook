@@ -1,4 +1,4 @@
-baseURL: "https://bluebook.pavit.xyz" 
+baseURL: "https://bluebook.1110777.xyz" 
 title: Bluebook
 languageCode: en-us
 paginate: 5
@@ -91,16 +91,16 @@ params:
       url: "https://forms.gle/mNYkDd8PkzX9X4EA9"
     - name: X
       title: Share Bluebook on X/Twitter
-      url: "https://twitter.com/intent/tweet?text=I%20am%20using%20%E2%9C%A8Bluebook%E2%9C%A8%20to%20prepare%20for%20my%20Interviews%20and%20Assessments!%20%E2%9C%94%20You%20can%20also%20use%20it%20here!%20https%3A//bluebook.pavit.xyz%0AIf%20you%20are%20interested%20in%20being%20featured%20you%20can%20fill%20out%20your%20response%20here!%20https%3A//forms.gle/mNYkDd8PkzX9X4EA9%0A%23Bluebook%20%23Interviews%20%23OA%20%23OLT%20%20"
+      url: "https://twitter.com/intent/tweet?text=I%20am%20using%20%E2%9C%A8Bluebook%E2%9C%A8%20to%20prepare%20for%20my%20Interviews%20and%20Assessments!%20%E2%9C%94%20You%20can%20also%20use%20it%20here!%20https%3A//bluebook.1110777.xyz%0AIf%20you%20are%20interested%20in%20being%20featured%20you%20can%20fill%20out%20your%20response%20here!%20https%3A//forms.gle/mNYkDd8PkzX9X4EA9%0A%23Bluebook%20%23Interviews%20%23OA%20%23OLT%20%20"
     - name: Linkedin
       title: Share Bluebook on Linkedin :)
-      url: "https://www.linkedin.com/shareArticle?mini=true&url=https%3A//pavit.xyz/bluebook"
+      url: "https://www.linkedin.com/shareArticle?mini=true&url=https%3A//bluebook.1110777.xyz"
     # - name: Github
     #   title: We are Fully Source Available (AGPL)!
     #   url: "https://github.com/tpo-manit/bluebook"
     - name: RSS
       title: We have a RSS Feed for all our posts!
-      url: "https://pavit.xyz/bluebook/index.xml"
+      url: "https://bluebook.1110777.xyz/index.xml"
     - name: Email
       title: Please mail us for any queries!
       url: "mailto:pavitchhabra2000@gmail.com"
